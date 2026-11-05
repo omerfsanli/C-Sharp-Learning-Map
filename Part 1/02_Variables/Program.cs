@@ -132,6 +132,8 @@ namespace _02_Variables
             //Console.Write("Lütfen aldığınız ayakkabı sayısını giriniz: ");
             //shoesCount = int.Parse(Console.ReadLine());
 
+                //Console.ReadLine(); (Sadece metin olarak girilir onun türünü değiştirmek  için int.Parse yaptık )
+
             //Console.Write("Lütfen aldığınız bilgisayar sayısını giriniz: ");
             //computerCount = int.Parse(Console.ReadLine());
 
@@ -155,6 +157,8 @@ namespace _02_Variables
             //Console.Write("Lütfen 1.Sınav notunu giriniz: ");
             //exam1 = double.Parse(Console.ReadLine());
 
+                //Console.ReadLine(); (Sadece metin olarak girilir onun türünü değiştirmek  için int.Parse yaptık )
+                
             //Console.Write("Lütfen 2.Sınav notunu giriniz: ");
             //exam2 = double.Parse(Console.ReadLine());
 
@@ -173,6 +177,10 @@ namespace _02_Variables
             //char gender;
             //Console.Write("Lütfen cinsiyet seçiniz: ");
             //gender = char.Parse(Console.ReadLine());
+
+                //Console.ReadLine(); (Sadece metin olarak girilir onun türünü değiştirmek  için int.Parse yaptık )
+
+                
 
             //Console.WriteLine("Seçtiğiniz Cinsiyet: " + gender);
 
